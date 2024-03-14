@@ -1,0 +1,21 @@
+# Antonyma
+suchý,mokrý
+hladký,hrubý
+ostrý,tupý
+sladký,hořký
+pevný,křehký
+dobrý,špatný
+šťastný,nešťastný
+otevřený,zavřený
+silný,slabý
+jasný,nejasný
+světlý,tmavý
+široký,úzký
+vysoký,nízký
+rychlý,pomalý
+mladý,starý
+teplý,studený
+plný,prázdný
+tvrdý,měkký
+těžký,lehký
+bohatý,chudý
